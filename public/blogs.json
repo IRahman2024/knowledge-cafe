@@ -1,0 +1,72 @@
+[
+    {
+        "ID": "123456",
+        "Cover": "cover_image_1.jpg",
+        "Title": "The Enigmatic Journey",
+        "Author": "Samantha Harper",
+        "Author_img": "https://i.ibb.co/R9PH63P/pexels-andrea-davis-3653849.jpg",
+        "Posted_date": "March 16, 2024",
+        "Reading_time": 10,
+        "Hashtags": [
+            "Adventure",
+            "Mystery",
+            "Thriller"
+        ]
+    },
+    {
+        "ID": "789012",
+        "Cover": "cover_image_2.jpg",
+        "Title": "Echoes of Eternity",
+        "Author": "Daniel Wells",
+        "Author_img": "https://i.ibb.co/27ZQrVJ/pexels-flo-dahm-699459.jpg",
+        "Posted_date": "March 15, 2024",
+        "Reading_time": 15,
+        "Hashtags": [
+            "Fantasy",
+            "Magic",
+            "Quest"
+        ]
+    },
+    {
+        "ID": "345678",
+        "Cover": "cover_image_3.jpg",
+        "Title": "Beyond the Horizon",
+        "Author": "Emily Johnson",
+        "Author_img": "https://i.ibb.co/30r47p5/pexels-jess-bailey-designs-768474.jpg",
+        "Posted_date": "March 14, 2024",
+        "Reading_time": 12,
+        "Hashtags": [
+            "SciFi",
+            "Exploration",
+            "Aliens"
+        ]
+    },
+    {
+        "ID": "901234",
+        "Cover": "cover_image_4.jpg",
+        "Title": "Secrets in the Shadows",
+        "Author": "Nathan Carter",
+        "Author_img": "https://i.ibb.co/xXd7JgS/pexels-pixabay-261579.jpg",
+        "Posted_date": "March 13, 2024",
+        "Reading_time": 8,
+        "Hashtags": [
+            "Suspense",
+            "Intrigue",
+            "Crime"
+        ]
+    },
+    {
+        "ID": "567890",
+        "Cover": "cover_image_5.jpg",
+        "Title": "Whispers of the Wind",
+        "Author": "Sophia Lee",
+        "Author_img": "https://i.ibb.co/NyyJtw0/pexels-tirachard-kumtanom-733856.jpg",
+        "Posted_date": "March 12, 2024",
+        "Reading_time": 20,
+        "Hashtags": [
+            "Romance",
+            "Drama",
+            "Love"
+        ]
+    }
+]
